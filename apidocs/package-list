@@ -1,0 +1,15 @@
+cz.cvut.fel.omo.inteligenthouses
+cz.cvut.fel.omo.inteligenthouses.config
+cz.cvut.fel.omo.inteligenthouses.console
+cz.cvut.fel.omo.inteligenthouses.factory
+cz.cvut.fel.omo.inteligenthouses.gui
+cz.cvut.fel.omo.inteligenthouses.gui.controllers
+cz.cvut.fel.omo.inteligenthouses.report
+cz.cvut.fel.omo.inteligenthouses.simulation
+cz.cvut.fel.omo.inteligenthouses.simulation.device
+cz.cvut.fel.omo.inteligenthouses.simulation.device.consumption
+cz.cvut.fel.omo.inteligenthouses.simulation.device.state
+cz.cvut.fel.omo.inteligenthouses.simulation.event
+cz.cvut.fel.omo.inteligenthouses.simulation.position
+cz.cvut.fel.omo.inteligenthouses.simulation.specimen
+cz.cvut.fel.omo.inteligenthouses.simulation.specimen.strategy
